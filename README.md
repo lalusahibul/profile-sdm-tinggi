@@ -1,4 +1,4 @@
-# install library rembg, onnxeruntime and pillow
+# install library rembg, onnxruntime and pillow
 
 ```bash
 pip install pillow rembg onnxruntime
