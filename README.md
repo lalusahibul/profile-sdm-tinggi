@@ -12,4 +12,4 @@ you can adjust the line positions by change the number ratio 0.450(eye position)
 remember to delete the existing input.jpg and change with your picture
 
 ## Preview
-![woody with mostchreal style](output.jpg)
+![woody with mostchreal style](output.png)
